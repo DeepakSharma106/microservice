@@ -3,4 +3,4 @@ hi how are you kanishk sharma
 A B C Dm
 hello lavanya kaisi ho,this is a testing  kanishk kaise ho fhfhfhhh?
 this is antoerhhhfhfhfhfjfjfjf
-this is a feature branch
+this is a feature branch i am doing a sample commit
